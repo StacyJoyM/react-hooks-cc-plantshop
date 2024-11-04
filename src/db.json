@@ -1,5 +1,4 @@
-{
-  "plants": [
+[
     {
       "id": 1,
       "name": "Aloe",
@@ -42,5 +41,4 @@
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
     }
-  ]
-}
+]
